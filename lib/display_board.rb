@@ -6,7 +6,5 @@ def display_board
   puts separated_cells
   puts separated_col
   puts separated_cells
-  puts separated_col
-  puts separated_cells
 end
 display_board
